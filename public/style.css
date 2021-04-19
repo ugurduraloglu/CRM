@@ -1,0 +1,101 @@
+.login {
+    padding-top: 4%;
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+.login h1 {
+    text-align: center;
+    color: #4d4d4d;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+}
+.login input[type="password"],
+.login input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+    box-sizing:border-box;
+    display: flexbox;
+}
+#login_btn{
+    width: 100%;
+    padding: 15px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+}
+.btn{
+    width: 100%;
+    padding: 10px;
+    border: 1;
+    box-sizing: border-box;
+    font-weight: bold;
+    text-align: center;
+}
+.login li{
+    display: block;
+    padding: 1%;
+}
+.crud {
+    margin-top: 5%;
+    display: block;
+    text-align: center;
+}
+.crud input{
+    width: 200px;
+    padding: 6px;
+}
+.crud textarea{
+    resize: none;
+    width: 22em;
+    height: 7em;
+    display:flexbox;
+}
+.crud button{
+    width: 217px;
+    padding: 6px;
+    text-align: center;
+    display:flexbox;
+    border: 1;
+    box-sizing: border-box;
+    font-weight: bold;
+    display:flexbox;
+    margin-top: 3px;
+}
+.crud_info {
+    margin-left: auto;
+    margin-right: auto;
+    display: flexbox;
+    width: 650px;
+    height: auto;
+}
+.crud_info button{
+    width: 100px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    text-align: center;
+    display:block;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+.crud_info input{
+    margin: 5px;
+}
+.crud_info textarea{
+    margin: 5px;
+}
+.bottom{
+    margin-left: auto;
+    margin-right: auto;
+    display: flexbox;
+    width: 650px;
+    height: auto;
+}
