@@ -6,7 +6,7 @@
 - Kişi silme
 - Authorization and Authentication
 - json wep token(jwt)
-## Kullanılan Teknolojiler
+## Used Technologies
 - Javascript 
 - NodeJS
 - MongoDB
